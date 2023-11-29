@@ -43,7 +43,7 @@ const callbacks = {
 };
 
 
-const projectId = "0c66f68192835523b0e41e03cb69a181";
+const projectId = "0c66f68192835523b0e41e03cb69a181"; //replace with your webwallet id
 const relayUrl = "wss://relay.walletconnect.com";
 const chainId = "T";
 
@@ -57,8 +57,8 @@ qrProvider.init();
 
 
 
-const CLIENT_ID = '1178690541651755081'
-const CLIENT_SECRET = 'rN4jRPC277WyWbogsTFkWRrxFFoOGGhr'
+const CLIENT_ID = '' //replace with your discord id 
+const CLIENT_SECRET = ''  //replace with your discord secret key
 const REDIRECT_URI = ''
 const corsOptions = {
     origin: 'http://localhost:3000',
